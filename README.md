@@ -1,5 +1,6 @@
 hello-world
 ===========
 
-first repository here.
-And I also learnthing new of HTML today
+First repository here.
+I am also new at HTML and GitHub fields.
+Good luck and hopefully HAVE FUN!
