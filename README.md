@@ -1,5 +1,5 @@
 hello-world
 ===========
 
-first repository here
+first repository here.
 And I also learnthing new of HTML today
